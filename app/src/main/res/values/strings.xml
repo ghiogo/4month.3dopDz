@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">4month.3dopDz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_login_to_your_account">Please login to your account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="your_password">Your password:</string>
+    <string name="pass">Pass</string>
+    <string name="your_name">Your name:</string>
+    <string name="name">Name</string>
+    <string name="welcome">Welcome!</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sing_in">Sing in</string>
+</resources>
